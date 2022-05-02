@@ -1,0 +1,20 @@
+/* Adding style using Type and ID selectors */
+
+.odd {
+  background-color:rgb(248, 163, 163);
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.three-and-four {
+  font-size: 24px;
+}
+
+#second {
+  color: rgb(0,0,255);
+  font-size: 36px;
+}
+
+#fourth {
+  background-color: rgb(67, 252, 138);
+  font-weight: bold;
+}
