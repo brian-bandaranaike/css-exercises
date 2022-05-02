@@ -6,3 +6,12 @@ div.container p.text {
   font-size: 20px;
   text-align: center;
 }
+
+/*
+Other potential combos
+div p
+.container p
+.container .text
+div p.text
+
+*/
